@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7860BC25-42D1-BCB4-F6EA-509F27117773}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "CarbonDemo_UE4BP",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
